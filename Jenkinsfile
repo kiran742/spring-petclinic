@@ -1,5 +1,5 @@
 
-currentBuild.displayName = "servletapp-#"+currentBuild.number
+currentBuild.displayName = "petclinicapp-#"+currentBuild.number
 pipeline{
     agent any 
     stages{
